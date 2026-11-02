@@ -169,3 +169,7 @@ From the project root:
 ```bash
 python -m pytest tests/test_api.py -v
 ```
+
+## Dashboard Preview
+
+![GamePulse Dashboard](screenshots/dashboard.png)
